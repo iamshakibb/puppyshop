@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="808" height="724" viewBox="0 0 808 724">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.087" x2="0.957" y2="1.018" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#921e1e"/>
+      <stop offset="0.904" stop-color="#13445e"/>
+      <stop offset="1" stop-color="#0e4561"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-557.5 -47.174)">
+    <path id="Rectangle_23" data-name="Rectangle 23" d="M362,0h0A362,362,0,0,1,724,362V808a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V362A362,362,0,0,1,362,0Z" transform="translate(557.5 771.174) rotate(-90)" fill="url(#linear-gradient)"/>
+    <path id="Path_5" data-name="Path 5" d="M8.305,0A8.305,8.305,0,0,1,16.61,8.305V163.041a8.305,8.305,0,0,1-16.61,0V8.305A8.305,8.305,0,0,1,8.305,0Z" transform="translate(1110.379 183.819) rotate(21)" fill="#052a3d"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="16.61" height="171.346" rx="8.305" transform="matrix(0.94, -0.342, 0.342, 0.94, 994.844, 177.148)" fill="#052a3d"/>
+    <path id="Path_6" data-name="Path 6" d="M51.955,0H191.89a123.7,123.7,0,1,1,0,247.4H51.955A51.955,51.955,0,0,1,0,195.448V51.955A51.955,51.955,0,0,1,51.955,0Z" transform="matrix(0.017, -1, 1, 0.017, 930.59, 553.131)" fill="#fff"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="16.61" height="57.698" rx="8.305" transform="translate(1041.679 298.711) rotate(70)" fill="#32799e"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="16.61" height="57.698" rx="8.305" transform="translate(1143.468 317.121) rotate(106)" fill="#32799e"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="6" cy="7.5" rx="6" ry="7.5" transform="matrix(1, 0.017, -0.017, 1, 1092.434, 330.151)" fill="#052a3c"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="5.5" cy="7.5" rx="5.5" ry="7.5" transform="matrix(1, 0.017, -0.017, 1, 1024.444, 328.964)" fill="#052a3c"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="11" cy="10" rx="11" ry="10" transform="matrix(1, 0.017, -0.017, 1, 1056.898, 360.536)" fill="#052a3c"/>
+    <path id="Rectangle_8" data-name="Rectangle 8" d="M0,0H173a0,0,0,0,1,0,0V5a50,50,0,0,1-50,50H50A50,50,0,0,1,0,5V0A0,0,0,0,1,0,0Z" transform="matrix(1, 0.017, -0.017, 1, 977.758, 425.164)" fill="#052a3d"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="170" height="11" rx="5.5" transform="translate(590.414 695.19) rotate(-25)" fill="#fff"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="170.472" height="11.365" rx="5.682" transform="translate(574.057 569.685) rotate(-24)" fill="#fff"/>
+  </g>
+</svg>
